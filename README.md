@@ -16,11 +16,11 @@
 
 <img align="right" height="150" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-🎓 B.Tech CSE @ Anand Engineering College (CGPA: 7.5)
+🎓 CS'Major
 🔐 Cybersecurity + AI Intern @ DRDO
-💻 Frontend Developer Intern @ TitanFlaws
-🚀 Passionate about building real-world scalable applications
-🌱 Exploring Cloud, DevOps & Automation
+💻 Ex-Frontend Developer Intern @ TitanFlaws
+🚀Leveraging Technology for Impactful Solution
+🌱 Exploring Cloud, DevOps ,Automation & Software Technologies
 
 ---
 
@@ -29,20 +29,16 @@
 ### 🎨 Frontend Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,ts,js,html,css,tailwind,sass" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,gsap,bootstrap" />
 </p>
 
 ### ⚙️ Backend & Database
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,flask,java,spring,mongodb,postgres,mysql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,java,spring,mongodb,sql" />
 </p>
 
-### 📱 Mobile & Desktop
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,kotlin,swift,electron" />
-</p>
 
 ### ☁️ Cloud & DevOps
 
@@ -59,7 +55,7 @@
 ### 🧰 Tools & Others
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,figma,firebase,graphql,redis" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,figma,firebase" />
 </p>
 
 ---
