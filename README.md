@@ -1,103 +1,67 @@
-<h1 align="center">Hi 👋, I'm Priya Parihar</h1>
+<!-- Gradient Banner -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=38BDF8&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI%2FML+%26+Cybersecurity+Explorer;Building+Real+World+Projects;Always+Learning+🚀" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:4B0082&height=120&section=header&text=Priya%20Parihar&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 ---
 
-## 🧠 About Me
+## Full Stack Developer | AI/ML | Cybersecurity
 
-* 🎓 B.Tech CSE @ Anand Engineering College
-* 🔐 Cybersecurity + AI Intern
-* 💻 Frontend Developer Intern
-* 🚀 Focused on AI + Security + Full Stack
-* 🌱 Exploring Cloud & DevOps
+I enjoy building systems that solve real-world problems — from AI-powered security tools to full-stack web applications.
 
----
-
-## 🚀 Tech Stack
-
-### 🎨 Frontend
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,js,tailwind,bootstrap,gsap" />
-</p>
-
-### ⚙️ Backend & Database
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,java,mongodb,mysql" />
-</p>
-
-### ☁️ Cloud & DevOps
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,linux,nginx" />
-</p>
-
-### 🧠 AI / ML
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow" />
-</p>
-
-### 🧰 Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman" />
-</p>
+* Working on AI-driven cybersecurity solutions
+* Built Truth Guard, an AI-based misinformation detection system
+* Developing scalable web applications using the MERN stack
+* Interested in cloud systems and backend architecture
 
 ---
 
-## 📊 GitHub Analytics
+## Projects
+
+* TaskNest — Full-stack collaboration platform (MERN + Socket.IO)
+* Truth-Guard — AI-based fake news detection (85% accuracy)
+* University Management System — Java + MySQL desktop application
+
+---
+
+## Currently Learning
+
+* Data Structures and Algorithms
+* Backend architecture with Node.js and Django
+* Machine learning model integration
+* System design fundamentals
+
+---
+
+## Tech Stack
+
+Languages: Python • Java • JavaScript • C
+Frontend: React • HTML • CSS • Tailwind • Bootstrap
+Backend: Node.js • Express • Java
+Databases: MongoDB • MySQL
+Tools: Git • GitHub • VS Code • IntelliJ
+
+---
+
+## Contributions
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=priyaparihar2006&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="165" src="https://streak-stats.demolab.com?user=priyaparihar2006&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyaparihar2006&theme=dark&hide_border=true"/>
 </p>
 
 ---
 
-## 📈 Contribution Activity
+## Connect
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyaparihar2006&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-## 🚀 Projects
-
-🔹 **TaskNest** – MERN Stack collaboration platform
-🔹 **University Management System** – Java + MySQL
-🔹 **Truth-Guard** – AI-based fake news detection
-
----
-
-## 🏆 Highlights
-
-* 🥇 Winner – AI & Cybersecurity Conclave
-* 👩‍💻 President – AI & Cybersecurity Club
-* 🧑‍🏫 Technical Lead – Coding Club
-* 💼 Frontend Developer Intern
-
----
-
-## 🌐 Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/priya-parihar-b39369327/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="mailto:priyaparihar240206@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-</p>
+LinkedIn: https://www.linkedin.com/in/priya-parihar-b39369327/
+GitHub: https://github.com/priyaparihar2006
 
 ---
 
 <p align="center">
-  ⚡ "Securing the future with AI-driven solutions"
+  Building intelligent and secure systems for the future
 </p>
+
+
 
