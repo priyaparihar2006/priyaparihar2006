@@ -23,9 +23,9 @@
 I build, experiment, break things, fix them, and somehow end up with cool projects. Mostly into full-stack, AI, and anything that keeps me curious.
 
 -  Majors in CSE'27
+-  Currently SDE Intern at @Aflix Infotech Priv. Lt.
 -  Cybersecurity & AI research experience at **DRDO**
 -  Frontend development experience at **Titanflaws**
--  Building full-stack applications with React, Next.js, Python, and Node.js
 -  Interested in AI/ML, NLP, and cybersecurity
 -  Winner — Sharda University AI & Cybersecurity Conclave 2025
 -  Based in Mathura, India
