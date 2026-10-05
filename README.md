@@ -2,7 +2,12 @@
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:4B0082&height=120&section=header&text=Priya%20Parihar&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-</p>
+</p> 
+Backend Engineer • Generative AI • Building Real Products
+Turning ideas into reliable backend systems and Generative AI applications.
+
+Cybersecurity + AI Intern @ DRDO ADRDE (Ministry of Defence, India)
+🏆 Winner — AI & Cybersecurity Conclave 2025
 
 ---
 
