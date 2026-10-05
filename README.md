@@ -3,8 +3,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:4B0082&height=120&section=header&text=Priya%20Parihar&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p> 
----
-
 
 <div align="center">
 
