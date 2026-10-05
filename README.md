@@ -4,7 +4,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:4B0082&height=120&section=header&text=Priya%20Parihar&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p> 
 
-SDE Intern @ Aflix Infotech | Ex-intern @ADRDE (DRDO) | Software Developer | Full Stack Dev | Java Developer | Gen AI | AI Automation(N8N)
+-SDE Intern @ Aflix Infotech | -Ex-intern @ADRDE (DRDO) |
+-Software Developer | -Full Stack Dev |- Java Developer | -Gen AI | -AI Automation(N8N)
 
 ---
 
