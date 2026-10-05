@@ -85,9 +85,17 @@ I build, experiment, break things, fix them, and somehow end up with cool projec
 
 ## 💼 Experience
 
+### 💻 SDE Intern — AFLIX Infotech
+
+* September 2026 – Present*
+- Building and shipping web applications from development to deployment.
+- Working across frontend, backend integration, Git/GitHub, and Vercel deployments.
+- Building responsive, user-friendly interfaces and fixing real-world UI/UX issues.
+- Working on projects like service platforms and management systems.
+
 **🔐 Cybersecurity & AI Intern — DRDO**
 
-*February 2026 – Present (per resume)*
+*February 2026 – June 2026*
 
 - Developed ML-based anomaly-detection models.
 - Performed vulnerability analysis and threat monitoring.
