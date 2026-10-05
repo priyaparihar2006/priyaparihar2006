@@ -20,15 +20,15 @@
 
 ## 👩‍💻 About Me
 
-I'm **Priya Parihar**, a Computer Science undergraduate and full-stack developer passionate about building scalable applications, exploring artificial intelligence, and solving real-world problems.
+I build, experiment, break things, fix them, and somehow end up with cool projects. Mostly into full-stack, AI, and anything that keeps me curious.
 
-- 🎓 B.Tech in Computer Science & Engineering (2027)
-- 🔐 Cybersecurity & AI research experience at **DRDO**
-- 💻 Frontend development experience at **Titanflaws**
-- 🚀 Building full-stack applications with React, Next.js, Python, and Node.js
-- 🤖 Interested in AI/ML, NLP, and cybersecurity
-- 🏆 Winner — Sharda University AI & Cybersecurity Conclave 2025
-- 📍 Based in Mathura, India
+-  Majors in CSE'27
+-  Cybersecurity & AI research experience at **DRDO**
+-  Frontend development experience at **Titanflaws**
+-  Building full-stack applications with React, Next.js, Python, and Node.js
+-  Interested in AI/ML, NLP, and cybersecurity
+-  Winner — Sharda University AI & Cybersecurity Conclave 2025
+-  Based in Mathura, India
 
 ---
 
