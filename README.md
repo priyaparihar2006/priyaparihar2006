@@ -112,30 +112,6 @@ I build, experiment, break things, fix them, and somehow end up with cool projec
 
 ---
 
-## 🚀 Featured Projects
-
-### 🛡️ TruthGuard — AI Fake News Detector
-**Python | OCR | NLP | REST APIs | Chrome Extension**
-
-- Developed an NLP-powered news credibility detection system.
-- Integrated OCR for extracting text from screenshots.
-- Winner of Sharda University AI & Cybersecurity Conclave 2025.
-
-### 🏨 LuxeStay — Hotel Booking Platform
-**Next.js | TypeScript | Tailwind CSS | GSAP**
-
-- Built a responsive hotel-booking experience.
-- Developed reusable components and inquiry flows.
-- Deployed using Vercel.
-
-### 🍽️ Aura — Luxury Restaurant Website
-**React | Vite | GSAP**
-
-- Built a responsive restaurant website.
-- Implemented cinematic animations and interactions.
-- Deployed on Vercel.
-
----
 
 ## 🏆 Achievements & Leadership
 
