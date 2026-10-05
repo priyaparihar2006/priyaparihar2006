@@ -9,11 +9,7 @@
 
 <div align="center">
 
-# Hi, I'm Priya Parihar 👋
 
-### Full-Stack Software Engineer | AI/ML Enthusiast | Cybersecurity Researcher
-
-*Building meaningful digital experiences through code, creativity, and innovation.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priya-parihar-b39369327/)
 [![Email](https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyaparihar240206@gmail.com)
