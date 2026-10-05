@@ -138,8 +138,23 @@ I build, experiment, break things, fix them, and somehow end up with cool projec
 
 ---
 
+<h2>🐍 Contribution Snake</h2>
+
 <p align="center">
-  Building intelligent and secure systems for the future
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/priyaparihar2006/priyaparihar2006/output/github-contribution-grid-snake-dark.svg"
+    >
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/priyaparihar2006/priyaparihar2006/output/github-contribution-grid-snake.svg"
+    >
+    <img
+      alt="Priya Parihar's GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/priyaparihar2006/priyaparihar2006/output/github-contribution-grid-snake.svg"
+    >
+  </picture>
 </p>
 
 
