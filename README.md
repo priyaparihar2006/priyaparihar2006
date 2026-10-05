@@ -87,7 +87,8 @@ I build, experiment, break things, fix them, and somehow end up with cool projec
 
 ### 💻 SDE Intern — AFLIX Infotech
 
-* September 2026 – Present*
+ *September 2026 – Present*
+ 
 - Building and shipping web applications from development to deployment.
 - Working across frontend, backend integration, Git/GitHub, and Vercel deployments.
 - Building responsive, user-friendly interfaces and fixing real-world UI/UX issues.
